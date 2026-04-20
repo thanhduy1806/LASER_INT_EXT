@@ -1,0 +1,36 @@
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H1
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H2
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H3
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H4
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H5
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H6
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H7
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H8
+Removed Member From Class: ClassName=4_COMMUNICATION Member=H9
+Change Component Footprint: Designator=C1 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_1005X50_L
+Change Component Footprint: Designator=H1 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Footprint: Designator=H2 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Footprint: Designator=H3 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Footprint: Designator=H4 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Footprint: Designator=H5 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Footprint: Designator=H6 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Footprint: Designator=H7 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Footprint: Designator=H8 Old Footprint=M3 New Footprint=HEX-M3_NoVia
+Change Component Comment : Designator=H1 Old Comment=HOLD New Comment=hole_space
+Change Component Comment : Designator=H2 Old Comment=HOLD New Comment=hole_space
+Change Component Comment : Designator=H3 Old Comment=HOLD New Comment=hole_space
+Change Component Comment : Designator=H4 Old Comment=HOLD New Comment=hole_space
+Change Component Comment : Designator=H5 Old Comment=HOLD New Comment=hole_space
+Change Component Comment : Designator=H6 Old Comment=HOLD New Comment=hole_space
+Change Component Comment : Designator=H7 Old Comment=HOLD New Comment=hole_space
+Change Component Comment : Designator=H8 Old Comment=HOLD New Comment=hole_space
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H3-1
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H7-1
+Added Pin To Net: NetName=GND Pin=H8-1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(186, 173, 164)
+Added Class: Name=MOUNTING

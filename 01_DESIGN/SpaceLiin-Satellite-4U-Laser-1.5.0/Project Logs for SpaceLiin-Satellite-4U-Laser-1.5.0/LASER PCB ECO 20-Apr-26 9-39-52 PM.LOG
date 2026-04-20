@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=LD5 NewDesignator=LD6
+Change Component Designator: OldDesignator=LD6 NewDesignator=LD5
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD6 LaserDiode

@@ -1,0 +1,161 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=12V_EXP Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=5V Pin=C5-2
+Removed Pin From Net: NetName=5V Pin=C6-1
+Removed Pin From Net: NetName=3V3 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=3V3 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=VR1-1
+Removed Pin From Net: NetName=3V3 Pin=VR1-2
+Removed Pin From Net: NetName=5V Pin=VR1-3
+Removed Pin From Net: NetName=3V3 Pin=VR1-4
+Removed Member From Class: ClassName=3_POWER SWITCH AND LDO Member=VR1
+Removed Member From Class: ClassName=POWER Member=3V3
+Change Component Footprint: Designator=C1 Old Footprint=CAP_C_1005X50_L New Footprint=CAP_C_1608X80
+Change Component Footprint: Designator=C3 Old Footprint=CAP_C_1005X50_L New Footprint=CAP TANT 2312
+Change Component Footprint: Designator=C6 Old Footprint=CAP_C_2012X110 New Footprint=CAP TANT 2312
+Change Component Footprint: Designator=C2 Old Footprint=CAP_C_3225X80 New Footprint=CAP_C_1608X80
+Change Component Footprint: Designator=C7 Old Footprint=CAP_C_3225X80 New Footprint=CAP_C_1608X80
+Change Component Footprint: Designator=C5 Old Footprint=CAP_C_3225X80 New Footprint=CAP TANT 2312
+Change Component Footprint: Designator=C8 Old Footprint=CAP_C_3225X80 New Footprint=CAP TANT 2312
+Change Component Comment : Designator=C1 Old Comment=0.01uF/16V New Comment=10nF/16V
+Change Component Comment : Designator=C4 Old Comment=1uF/20V New Comment=0.22uF/25V
+Change Component Comment : Designator=C3 Old Comment=1uF/20V New Comment=47uF/20V
+Change Component Comment : Designator=C6 Old Comment=10uF/20V New Comment=47uF/20V
+Change Component Comment : Designator=C2 Old Comment=47uF/25V New Comment=0.22uF/25V
+Change Component Comment : Designator=C7 Old Comment=47uF/25V New Comment=0.22uF/25V
+Change Component Comment : Designator=C5 Old Comment=47uF/25V New Comment=47uF/20V
+Change Component Comment : Designator=C8 Old Comment=47uF/25V New Comment=47uF/20V
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP_C_1005X50_L"; UniqueID = "\GFTHLCLN" ("\GFTHLCLN")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_C_3225X80"; UniqueID = "\PTPTVPTK" ("\PTPTVPTK")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP_C_2012X110"; UniqueID = "\OLDMEHHC" ("\OLDMEHHC")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAP_C_3225X80"; UniqueID = "\DUACFNAV" ("\DUACFNAV")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP TANT 2312)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP_C_1005X50_L)
+Added Component: Designator=C27(CAP_C_1608X80)
+Added Component: Designator=C28(CAP_C_1608X80)
+Added Component: Designator=C35(CAP TANT 2312)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAP TANT 2312)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CAP_C_1608X80)
+Added Component: Designator=C45(CAP_C_1608X80)
+Added Component: Designator=C46(CAP TANT 2312)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C57(CAP TANT 2312)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SOT223-6)
+Added Pin To Net: NetName=12V_EXP Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=12V_EXP Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=12V_EXP Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=5V Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=5V Pin=C27-2
+Added Pin To Net: NetName=3V3 Pin=C28-2
+Added Pin To Net: NetName=3V3 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=3V3 Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=5V Pin=C46-1
+Added Pin To Net: NetName=GND Pin=C46-2
+Added Pin To Net: NetName=5V Pin=C57-1
+Added Pin To Net: NetName=GND Pin=C57-2
+Added Pin To Net: NetName=NetD37_2 Pin=LD26-1
+Added Pin To Net: NetName=GND Pin=LD26-3
+Added Pin To Net: NetName=NetD39_2 Pin=LD28-1
+Added Pin To Net: NetName=GND Pin=LD28-3
+Added Pin To Net: NetName=NetD40_2 Pin=LD29-1
+Added Pin To Net: NetName=GND Pin=LD29-3
+Added Pin To Net: NetName=NetD41_2 Pin=LD30-1
+Added Pin To Net: NetName=GND Pin=LD30-3
+Added Pin To Net: NetName=NetD42_2 Pin=LD31-1
+Added Pin To Net: NetName=GND Pin=LD31-3
+Added Pin To Net: NetName=NetD43_2 Pin=LD32-1
+Added Pin To Net: NetName=GND Pin=LD32-3
+Added Pin To Net: NetName=5V Pin=U11-1
+Added Pin To Net: NetName=5V Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=3V3 Pin=U11-4
+Added Pin To Net: NetName=3V3 Pin=U11-5
+Added Pin To Net: NetName=GND Pin=U11-6
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C7-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C24-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=C44-2
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=C45-2
+Added Net: Name=NetC28_1
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C20 47uF/20V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C24 0.22uF/25V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C27 0.22uF/25V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C28 0.22uF/25V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C35 47uF/20V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C36 47uF/20V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C44 0.22uF/25V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C45 0.22uF/25V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C46 47uF/20V
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component C57 47uF/20V
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD6 LaserDiode
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD26 LaserDiode
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD28 LaserDiode
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD29 LaserDiode
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD30 LaserDiode
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD31 LaserDiode
+Added Member To Class: ClassName=6_SWITCHING Member=Component LD32 LaserDiode
+Added Member To Class: ClassName=3_POWER SWITCH AND LDO Member=Component U11 TPS7A4533DCQR
