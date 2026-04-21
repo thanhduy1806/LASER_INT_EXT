@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXT_LASER_DAC_nCS Pin=D35-1
+Removed Pin From Net: NetName=EXT_LASER_SPI_SCK Pin=D35-2
+Added Pin To Net: NetName=EXT_LASER_SPI_SCK Pin=D35-1
+Added Pin To Net: NetName=EXT_LASER_DAC_nCS Pin=D35-2

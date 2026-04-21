@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=GND Pin=LD1-3
+Removed Pin From Net: NetName=GND Pin=LD2-3
+Removed Pin From Net: NetName=GND Pin=LD3-3
+Removed Pin From Net: NetName=GND Pin=LD4-3
+Removed Pin From Net: NetName=GND Pin=LD5-3
+Removed Pin From Net: NetName=GND Pin=LD6-3
+Removed Pin From Net: NetName=GND Pin=LD7-3
+Removed Pin From Net: NetName=GND Pin=LD8-3
+Removed Pin From Net: NetName=GND Pin=LD9-3
+Removed Pin From Net: NetName=GND Pin=LD10-3
+Removed Pin From Net: NetName=GND Pin=LD11-3
+Removed Pin From Net: NetName=GND Pin=LD12-3
+Removed Pin From Net: NetName=GND Pin=LD13-3
+Removed Pin From Net: NetName=GND Pin=LD14-3
+Removed Pin From Net: NetName=GND Pin=LD15-3
+Removed Pin From Net: NetName=GND Pin=LD16-3
+Removed Pin From Net: NetName=GND Pin=LD17-3
+Removed Pin From Net: NetName=GND Pin=LD18-3
+Removed Pin From Net: NetName=GND Pin=LD19-3
+Removed Pin From Net: NetName=GND Pin=LD20-3
+Removed Pin From Net: NetName=GND Pin=LD21-3
+Removed Pin From Net: NetName=GND Pin=LD22-3
+Removed Pin From Net: NetName=GND Pin=LD23-3
+Removed Pin From Net: NetName=GND Pin=LD24-3
+Removed Pin From Net: NetName=GND Pin=LD25-3
+Removed Pin From Net: NetName=GND Pin=LD26-3
+Removed Pin From Net: NetName=GND Pin=LD27-3
+Removed Pin From Net: NetName=GND Pin=LD28-3
+Removed Pin From Net: NetName=GND Pin=LD29-3
+Removed Pin From Net: NetName=GND Pin=LD30-3
+Removed Pin From Net: NetName=GND Pin=LD31-3
+Removed Pin From Net: NetName=GND Pin=LD32-3
+Change Component Footprint: Designator=LD25 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD26 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD27 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD28 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD29 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD30 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD31 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD32 Old Footprint=LASER New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD1 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD2 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD3 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD4 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD5 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD6 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD7 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD8 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD9 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD10 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD11 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD12 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD13 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD14 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD15 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD16 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD17 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD18 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD19 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD20 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD21 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD22 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD23 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Change Component Footprint: Designator=LD24 Old Footprint=OPV302 New Footprint=LASER_SOCKET
+Added Pin To Net: NetName=GND Pin=LD1-2
+Added Pin To Net: NetName=GND Pin=LD2-2
+Added Pin To Net: NetName=GND Pin=LD3-2
+Added Pin To Net: NetName=GND Pin=LD4-2
+Added Pin To Net: NetName=GND Pin=LD5-2
+Added Pin To Net: NetName=GND Pin=LD6-2
+Added Pin To Net: NetName=GND Pin=LD7-2
+Added Pin To Net: NetName=GND Pin=LD8-2
+Added Pin To Net: NetName=GND Pin=LD9-2
+Added Pin To Net: NetName=GND Pin=LD10-2
+Added Pin To Net: NetName=GND Pin=LD11-2
+Added Pin To Net: NetName=GND Pin=LD12-2
+Added Pin To Net: NetName=GND Pin=LD13-2
+Added Pin To Net: NetName=GND Pin=LD14-2
+Added Pin To Net: NetName=GND Pin=LD15-2
+Added Pin To Net: NetName=GND Pin=LD16-2
+Added Pin To Net: NetName=GND Pin=LD17-2
+Added Pin To Net: NetName=GND Pin=LD18-2
+Added Pin To Net: NetName=GND Pin=LD19-2
+Added Pin To Net: NetName=GND Pin=LD20-2
+Added Pin To Net: NetName=GND Pin=LD21-2
+Added Pin To Net: NetName=GND Pin=LD22-2
+Added Pin To Net: NetName=GND Pin=LD23-2
+Added Pin To Net: NetName=GND Pin=LD24-2
+Added Pin To Net: NetName=GND Pin=LD25-2
+Added Pin To Net: NetName=GND Pin=LD26-2
+Added Pin To Net: NetName=GND Pin=LD27-2
+Added Pin To Net: NetName=GND Pin=LD28-2
+Added Pin To Net: NetName=GND Pin=LD29-2
+Added Pin To Net: NetName=GND Pin=LD30-2
+Added Pin To Net: NetName=GND Pin=LD31-2
+Added Pin To Net: NetName=GND Pin=LD32-2

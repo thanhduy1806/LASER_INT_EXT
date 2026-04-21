@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=LD25-2
+Removed Pin From Net: NetName=GND Pin=LD26-2
+Removed Pin From Net: NetName=GND Pin=LD27-2
+Removed Pin From Net: NetName=GND Pin=LD28-2
+Removed Pin From Net: NetName=GND Pin=LD29-2
+Removed Pin From Net: NetName=GND Pin=LD30-2
+Removed Pin From Net: NetName=GND Pin=LD31-2
+Removed Pin From Net: NetName=GND Pin=LD32-2
+Change Component Footprint: Designator=LD25 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Change Component Footprint: Designator=LD26 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Change Component Footprint: Designator=LD27 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Change Component Footprint: Designator=LD28 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Change Component Footprint: Designator=LD29 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Change Component Footprint: Designator=LD30 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Change Component Footprint: Designator=LD31 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Change Component Footprint: Designator=LD32 Old Footprint=LASER_SOCKET New Footprint=RLD65NZX1
+Added Pin To Net: NetName=GND Pin=LD25-3
+Added Pin To Net: NetName=GND Pin=LD26-3
+Added Pin To Net: NetName=GND Pin=LD27-3
+Added Pin To Net: NetName=GND Pin=LD28-3
+Added Pin To Net: NetName=GND Pin=LD29-3
+Added Pin To Net: NetName=GND Pin=LD30-3
+Added Pin To Net: NetName=GND Pin=LD31-3
+Added Pin To Net: NetName=GND Pin=LD32-3

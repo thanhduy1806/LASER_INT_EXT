@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D30-1
+Added Pin To Net: NetName=GND Pin=D33-1
+Added Member To Class: ClassName=6_SWITCHING Member=Component D13 1N4148W-TP
+Added Member To Class: ClassName=6_SWITCHING Member=Component D30 1N4148W-TP
+Added Member To Class: ClassName=6_SWITCHING Member=Component D33 1N4148W-TP

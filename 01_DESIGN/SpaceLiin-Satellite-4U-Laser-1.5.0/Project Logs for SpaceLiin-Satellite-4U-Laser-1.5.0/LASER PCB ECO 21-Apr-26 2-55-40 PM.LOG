@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EXT_LASER_SPI_MISO Pin=D44-1
+Removed Pin From Net: NetName=EXT_LASER_SPI_MOSI Pin=D44-2
+Added Pin To Net: NetName=EXT_LASER_SPI_MOSI Pin=D44-1
+Added Pin To Net: NetName=EXT_LASER_SPI_MISO Pin=D44-2
