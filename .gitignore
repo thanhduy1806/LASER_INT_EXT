@@ -1,0 +1,32 @@
+# ===== Altium cache & temp =====
+__Previews/
+History/
+*.SchDocPreview
+*.PcbDocPreview
+
+# ===== Output / Generated =====
+Project Outputs for*
+Project Logs for*
+*.OutJob
+*.log
+
+# ===== Compilation / cache =====
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.Workspace
+*.DsnWrk
+*.DbLink
+
+# ===== User-specific =====
+*.User
+*.DesignLock
+
+# ===== Backup / autosave =====
+*.bak
+*.Backup
+*.OldVersions
+*.zip
+
+# ===== Windows =====
+Thumbs.db
+Desktop.ini

@@ -1,9 +1,0 @@
-Removed Member From Class: ClassName=4_COMMUNICATION Member=J?
-Added Component: Designator=J3(SAMTEC_CLP-111-02-X-D)
-Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CLP-111-02-L-D/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "MP"; Value = "CLP-111-02-L-D"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CLP-111-02-L-D/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
-Added Member To Class: ClassName=4_COMMUNICATION Member=Component J3 CLP-111-02-X-D
